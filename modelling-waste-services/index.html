@@ -16,7 +16,7 @@
 <script type='text/javascript' src='/wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
 <script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
 <script type='text/javascript' src='/wp-content/themes/localdigital2/js/pym.minc721.js?ver=5.1'></script>
-<link rel='https://api.w.org/' href='/wp-json/index.html' />
+<link rel='https://api.w.org/' href='/wp-json/' />
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 		</head>
 <body class="post-template-default single single-post postid-8379 single-format-standard">
@@ -28,7 +28,7 @@
 			<div class="row">
 				<div class="span8">
 					<div class="sprites ld-logo"></div>
-					<h1><a href="/index.html">Local Digital Coalition</a></h1>
+					<h1><a href="/">Local Digital Coalition</a></h1>
 				</div>
 			</div>
 				
@@ -48,9 +48,9 @@
 					  </a>
 					  <div class="nav-collapse collapse">
 						  <ul class="nav">
-						    <ul id="menu-primary-navigation" class="nav navbar-nav"><li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-31"><a title="Home" href="/index.html">Home</a></li>
-<li id="menu-item-7116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7116"><a title="Products" href="/products/index.html">Products</a></li>
-<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a title="Resources" href="/resources/index.html">Resources</a></li>
+						    <ul id="menu-primary-navigation" class="nav navbar-nav"><li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-31"><a title="Home" href="/">Home</a></li>
+<li id="menu-item-7116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7116"><a title="Products" href="/products/">Products</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a title="Resources" href="/resources/">Resources</a></li>
 </ul>						  </ul>
 					  </div>	
 				</div>
@@ -73,7 +73,7 @@
 			<div class="span12">
 					<div class='breadcrumb'>
 						<!-- Breadcrumb NavXT 6.2.1 -->
-<a title="Go to Local Digital Coalition." href="/index.html" class="home">Local Digital Coalition</a> &gt; <a title="Go to news" href="/news-blog/index.html" class="news">News &amp; blog</a> &gt; Modelling waste services					</div>
+<a title="Go to Local Digital Coalition." href="/" class="home">Local Digital Coalition</a> &gt; <a title="Go to news" href="/news-blog/" class="news">News &amp; blog</a> &gt; Modelling waste services					</div>
 			</div>
 		</div>
 		
@@ -85,7 +85,7 @@
   <p class="meta">26 Nov 2015, 1:20 pm</p>
   <div class="entry"><p><strong>by Paul Mackay, Technical Lead for the DCLG Local Waste Service Standards Project</strong></p>
 <p><a href="/wp-content/uploads/2015/10/paul_mackay.jpg"><img class="alignleft wp-image-8004" src="/wp-content/uploads/2015/10/paul_mackay.jpg" alt="paul_mackay" width="200" height="200" srcset="/wp-content/uploads/2015/10/paul_mackay.jpg 400w, https://www.localdigitalcoalition.uk/wp-content/uploads/2015/10/paul_mackay-150x150.jpg 150w, https://www.localdigitalcoalition.uk/wp-content/uploads/2015/10/paul_mackay-300x300.jpg 300w, https://www.localdigitalcoalition.uk/wp-content/uploads/2015/10/paul_mackay-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" /></a>In this, my 2nd blog on our emerging data standards for local waste services, I’ll focus on the data model I’m building, why it’s structured the way it is, and what I’ve learned about building common data models for local services so far.</p>
-<p><span style="font-weight: 400;">For anyone new to this series, I outlined the kinds of things we’re building and defined them, and I talked about the taxonomies we’re using in </span><a href="/waste-service-standards-project-alpha-update/index.html"><span style="font-weight: 400;">my last blog</span></a><span style="font-weight: 400;">, so start there if you’re coming in fresh!</span></p>
+<p><span style="font-weight: 400;">For anyone new to this series, I outlined the kinds of things we’re building and defined them, and I talked about the taxonomies we’re using in </span><a href="/waste-service-standards-project-alpha-update/"><span style="font-weight: 400;">my last blog</span></a><span style="font-weight: 400;">, so start there if you’re coming in fresh!</span></p>
 <h3>What’s a data model?</h3>
 <p><span style="font-weight: 400;">As I wrote last time, a</span><span style="font-weight: 400;"> data model is a key part of designing how digital systems can talk to each other</span><span style="font-weight: 400;">.</span><span style="font-weight: 400;"> It defines the objects of a system and what properties they have. For example, waste collections empty bins of different types and sizes. Our data model will describe a local authority waste service. It’s the foundation for the standard application programme interface (API) we’re building to interface between the different software systems that support waste management, from in cab technology, to customer services systems, to web forms and websites.</span></p>
 <h3>What our standard data model looks like and why</h3>
@@ -141,7 +141,7 @@
 <h3>Government as a Platform (GaaP)… because we have to mention it</h3>
 <p><span style="font-weight: 400;">This year’s local government trending topic is Government as a Platform and how to think of a council’s digital systems as a set of reusable capabilities rather than siloed systems. Thus it is quite important to model stuff in as decoupled a way as possible. In the case of our waste management data model, the most obvious example of including reusable capabilities is defining a common ‘Places API’ for postcode lookup that is separate from the Waste API, which is specific to waste services. Likewise, when the API is expanded to include paid for services, the ‘payments in’ function would be separate to better connect with other services that the council charges for, like parking permits and council tax.  </span></p>
 <h3>Keep iterating</h3>
-<p><span style="font-weight: 400;">Designing for the needs of a diverse group of councils, supporting integration with multiple suppliers and accommodating aspects of a wider framework is a nebulous and challenging task, and it’s important to adjust as new insights and information emerge. So, right now, we’re doing as much as possible to get the basics right before working with our collaborating suppliers and councils to implement our waste data model and the API it will power. We hope to start implementation in December and have a few examples up and running by by February’s </span><a href="/event/local-waste-service-standards-project-beta-showcase-and-workshop/index.html"><span style="font-weight: 400;">Beta Showcase</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Designing for the needs of a diverse group of councils, supporting integration with multiple suppliers and accommodating aspects of a wider framework is a nebulous and challenging task, and it’s important to adjust as new insights and information emerge. So, right now, we’re doing as much as possible to get the basics right before working with our collaborating suppliers and councils to implement our waste data model and the API it will power. We hope to start implementation in December and have a few examples up and running by by February’s </span><a href="/event/local-waste-service-standards-project-beta-showcase-and-workshop/"><span style="font-weight: 400;">Beta Showcase</span></a><span style="font-weight: 400;">.</span></p>
 </div>                   
     </article>
 

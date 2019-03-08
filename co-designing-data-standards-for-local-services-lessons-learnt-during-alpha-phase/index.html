@@ -16,7 +16,7 @@
 <script type='text/javascript' src='/wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
 <script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
 <script type='text/javascript' src='/wp-content/themes/localdigital2/js/pym.minc721.js?ver=5.1'></script>
-<link rel='https://api.w.org/' href='/wp-json/index.html' />
+<link rel='https://api.w.org/' href='/wp-json/' />
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 		</head>
 <body class="post-template-default single single-post postid-8560 single-format-standard">
@@ -28,7 +28,7 @@
 			<div class="row">
 				<div class="span8">
 					<div class="sprites ld-logo"></div>
-					<h1><a href="/index.html">Local Digital Coalition</a></h1>
+					<h1><a href="/">Local Digital Coalition</a></h1>
 				</div>
 			</div>
 				
@@ -48,9 +48,9 @@
 					  </a>
 					  <div class="nav-collapse collapse">
 						  <ul class="nav">
-						    <ul id="menu-primary-navigation" class="nav navbar-nav"><li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-31"><a title="Home" href="/index.html">Home</a></li>
-<li id="menu-item-7116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7116"><a title="Products" href="/products/index.html">Products</a></li>
-<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a title="Resources" href="/resources/index.html">Resources</a></li>
+						    <ul id="menu-primary-navigation" class="nav navbar-nav"><li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-31"><a title="Home" href="/">Home</a></li>
+<li id="menu-item-7116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7116"><a title="Products" href="/products/">Products</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a title="Resources" href="/resources/">Resources</a></li>
 </ul>						  </ul>
 					  </div>	
 				</div>
@@ -73,7 +73,7 @@
 			<div class="span12">
 					<div class='breadcrumb'>
 						<!-- Breadcrumb NavXT 6.2.1 -->
-<a title="Go to Local Digital Coalition." href="/index.html" class="home">Local Digital Coalition</a> &gt; <a title="Go to news" href="/news-blog/index.html" class="news">News &amp; blog</a> &gt; Co-designing data standards for local services: Lessons learnt					</div>
+<a title="Go to Local Digital Coalition." href="/" class="home">Local Digital Coalition</a> &gt; <a title="Go to news" href="/news-blog/" class="news">News &amp; blog</a> &gt; Co-designing data standards for local services: Lessons learnt					</div>
 			</div>
 		</div>
 		
@@ -88,12 +88,12 @@
 <p><em><span style="font-weight: 400;">When I last wrote, we’d just announced the outcome of our discovery process. We’re now in the final, ‘beta’ phase of our exploratory project to standardise how a local public service publishes and shares data. So, it’s high time I blogged again about what we learnt during the alpha phase.</span></em></p>
 <p><span style="font-weight: 400;">As I’ve left it a while and there is lots to report on, I’ve split my reflections into 2 blogs. This first blog reflects on what I’ve learned generally about co-designing data standards for local services. The next one will report in more detail on the difficulties of getting the technical documentation and business case data we needed to produce some alpha products.</span></p>
 <p><b>Background</b></p>
-<p><span style="font-weight: 400;">The </span><a href="/waste-service-standards-project-alpha-update/index.html"><span style="font-weight: 400;">‘alpha’ phase</span></a><span style="font-weight: 400;"> began in late July and ran until October 20th. In this phase, we started to define some </span><a href="http://communitiesuk.github.io/waste-service-standards/"><span style="font-weight: 400;">common taxonomies and an API specification</span></a><span style="font-weight: 400;"> for our highest priority parts of the service: ‘missed bin reporting’ and ‘collection day finder’. We also produced a 1st draft </span><a href="/resource/making-the-case-for-data-standards-an-alpha-business-case/index.html"><span style="font-weight: 400;">‘alpha’ business case for standards</span></a><span style="font-weight: 400;">, and made an </span><a href="https://youtu.be/oUPJbY3ueo8"><span style="font-weight: 400;">introductory video</span></a><span style="font-weight: 400;"> to help key budget holders understand the need for standards. </span></p>
+<p><span style="font-weight: 400;">The </span><a href="/waste-service-standards-project-alpha-update/"><span style="font-weight: 400;">‘alpha’ phase</span></a><span style="font-weight: 400;"> began in late July and ran until October 20th. In this phase, we started to define some </span><a href="http://communitiesuk.github.io/waste-service-standards/"><span style="font-weight: 400;">common taxonomies and an API specification</span></a><span style="font-weight: 400;"> for our highest priority parts of the service: ‘missed bin reporting’ and ‘collection day finder’. We also produced a 1st draft </span><a href="/resource/making-the-case-for-data-standards-an-alpha-business-case/"><span style="font-weight: 400;">‘alpha’ business case for standards</span></a><span style="font-weight: 400;">, and made an </span><a href="https://youtu.be/oUPJbY3ueo8"><span style="font-weight: 400;">introductory video</span></a><span style="font-weight: 400;"> to help key budget holders understand the need for standards. </span></p>
 <p><span style="font-weight: 400;">As we get into the nitty gritty of implementation planning, here are some of my main observations about what works and what doesn’t:</span></p>
 <p><b>1. We’ve used up all our contingency time and the heat is on</b></p>
 <p><span style="font-weight: 400;">Astute lurkers on our product page might have noticed it being tweaked over time. We knew when starting the project that, worst case scenario, it needed to be complete by Christmas. As it became clear we’d have until March, we stretched both the discovery and alpha phases. Retrospectively, I don’t think it was possible to make the project a success with such a small team in 9 months; but 12 months is doable for a pilot of this scale. </span></p>
 <p><b>2. Chicken and egg: it takes a while to build momentum</b></p>
-<p><span style="font-weight: 400;">Even though the local public sector had argued hard that data standards were crucial to improve services at LocalGov Camp 2014, at our subsequent Discovery Day on Waste Data Standards in November 2014, and at all the discovery events during the project, we still struggled to get the business case information we needed to back up this assertion and the technical documentation we needed to get working on our alpha standards. Once we had a </span><a href="/resource/making-the-case-for-data-standards-an-alpha-business-case/index.html"><span style="font-weight: 400;">business case</span></a><span style="font-weight: 400;"> and a clear </span><a href="https://youtu.be/oUPJbY3ueo8"><span style="font-weight: 400;">introductory video</span></a><span style="font-weight: 400;">, it became a lot easier to engage the people we needed&#8230;to get the information for this business case and documentation for the data standards.</span></p>
+<p><span style="font-weight: 400;">Even though the local public sector had argued hard that data standards were crucial to improve services at LocalGov Camp 2014, at our subsequent Discovery Day on Waste Data Standards in November 2014, and at all the discovery events during the project, we still struggled to get the business case information we needed to back up this assertion and the technical documentation we needed to get working on our alpha standards. Once we had a </span><a href="/resource/making-the-case-for-data-standards-an-alpha-business-case/"><span style="font-weight: 400;">business case</span></a><span style="font-weight: 400;"> and a clear </span><a href="https://youtu.be/oUPJbY3ueo8"><span style="font-weight: 400;">introductory video</span></a><span style="font-weight: 400;">, it became a lot easier to engage the people we needed&#8230;to get the information for this business case and documentation for the data standards.</span></p>
 <p><b>3. Pioneering councils had to take a collaborative leap of faith; suppliers followed</b></p>
 <p><span style="font-weight: 400;">It wasn’t actually in any individual council’s interests to dedicate time to this project, and some of the customer services, waste, digital and transformation managers who attended our individual discovery days clearly didn’t think it a good use of a full day. However, this investment was essential and our 5 partner councils have done the sector a massive favour. The only way to engage suppliers and everyone we need on board to establish a standard is by gathering, comparing and contrasting the information-flow problems of a number of councils, and making some joined-up claims about the benefits of data standards to the sector at large. </span></p>
 <p><span style="font-weight: 400;">This is one of the most important observations from all of our #LocalDigital projects: without a little investment in setting up collaborative projects for local services, councils will talk about how beneficial common solutions are, but never be able to advance them. </span></p>
@@ -104,7 +104,7 @@
 <p><span style="font-weight: 400;">Moreover, like all products, standards attract different people at different stages &#8211; the visionaries and early adopters first, those who need some good evidence next, and then a critical mass that will tip the balance in favour of everyone getting on board. This means that new people are constantly finding out about us, looking for the same information and seeking evidence that it’s worth their while to join in. It sounds obvious, but worth emphasising, since ‘working in the open’ isn’t widely practised in the public sector &#8211; especially at local level. Having a project web page with a public ‘to do’ list, timeline, updates like this one, and resources has already saved us a lot of time in signposting people to information. While our blogs don’t have thousands of hits, they are now getting over 100 unique reads of 3-minutes or more each in their first fortnight. In the last 8 weeks, ‘lurkers’ who were looking on from a distance have approached us with more enthusiasm about getting involved because they are able to understand our plans and objectives from a distance and plan to get involved when they see the opportunity emerge. This has been true for suppliers, councils and representative bodies.</span></p>
 <p><b>Next steps</b></p>
 <p><span style="font-weight: 400;">In the final ‘beta’ phase, we’ll try to implement these standards with some councils and suppliers, refine the business case, map out a plan for national adoption, and leave a ‘how we did it’ toolkit for future standards projects. If you have ideas about other outputs we could usefully produce by March, please get in touch.</span></p>
-<p><span style="font-weight: 400;">You can also find all project resources, updates and upcoming events on <a href="/product/local-waste-service-standards-project/index.html" target="_blank" rel="noopener">our project page</a>. Scroll to the bottom for resources, and find all events and registration links in our timeline in the right hand column.</span></p>
+<p><span style="font-weight: 400;">You can also find all project resources, updates and upcoming events on <a href="/product/local-waste-service-standards-project/" target="_blank" rel="noopener">our project page</a>. Scroll to the bottom for resources, and find all events and registration links in our timeline in the right hand column.</span></p>
 </div>                   
     </article>
 
