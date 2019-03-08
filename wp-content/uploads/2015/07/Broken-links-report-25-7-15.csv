@@ -1,0 +1,434 @@
+LAID,Authority name,Region,Number of LDG links,Number of LDG broken links,Number of PSC links,Number of PSC broken links,Valid 404 page
+1,Adur District Council,S East,172,0,45,0,Y
+2,Allerdale Borough Council,N West,102,0,23,0,Y
+4,Amber Valley Borough Council,E Mids,136,0,53,0,Y
+5,Arun District Council,S East,256,7,13,0,Y
+6,Ashfield District Council,E Mids,151,0,56,0,Y
+7,Ashford Borough Council,S East,205,0,47,0,N
+8,Aylesbury Vale District Council,S East,82,0,49,0,Y
+9,Babergh District Council,East,105,3,77,2,Y
+10,London Borough of Barking and Dagenham,London,194,0,48,0,N
+11,London Borough of Barnet,London,129,12,2,1,Y
+12,Barnsley Metropolitan Borough Council,York/Humb,128,0,2,0,N
+14,Basildon Borough Council,East,172,0,37,0,N
+15,Basingstoke and Deane Borough Council,S East,139,1,50,0,Y
+16,Bassetlaw District Council,E Mids,146,0,42,0,Y
+17,Bath and North East Somerset Council,S West,118,0,50,0,Y
+21,London Borough of Bexley,London,296,0,39,0,Y
+22,Birmingham City Council,W Mids,277,0,59,2,Y
+23,Blaby District Council,E Mids,101,0,26,0,Y
+24,Blackburn with Darwen Borough Council,N West,221,1,55,0,Y
+25,Blackpool Borough Council,N West,289,0,62,0,N
+27,Bolsover District Council,E Mids,209,32,32,1,Y
+28,Bolton Metropolitan Borough Council,N West,289,2,100,0,Y
+29,Boston Borough Council,E Mids,86,0,41,0,N
+30,Bournemouth Borough Council,S West,219,0,117,0,Y
+31,Bracknell Forest Council,S East,142,0,42,0,Y
+32,Bradford Metropolitan District Council,York/Humb,172,0,47,0,Y
+33,Braintree District Council,East,182,0,32,0,Y
+34,Breckland District Council,East,57,0,51,0,Y
+35,London Borough of Brent,London,383,0,128,0,Y
+36,Brentwood Borough Council,East,245,4,72,0,Y
+38,Brighton and Hove City Council,S East,236,0,90,0,Y
+40,Broadland District Council,East,198,1,2,0,Y
+41,London Borough of Bromley,London,332,0,79,0,Y
+42,Bromsgrove District Council,W Mids,102,0,29,0,Y
+43,Borough of Broxbourne,East,94,70,22,22,Y
+44,Broxtowe Borough Council,E Mids,209,0,53,0,N
+45,Buckinghamshire County Council,S East,204,0,38,0,Y
+46,Burnley Borough Council,N West,60,0,33,0,Y
+48,Calderdale Metropolitan Borough Council,York/Humb,209,0,32,0,Y
+49,Cambridge City Council,East,74,0,51,0,N
+50,Cambridgeshire County Council,East,130,0,28,0,Y
+51,London Borough of Camden,London,183,0,114,0,Y
+52,Cannock Chase District Council,W Mids,189,0,29,0,Y
+53,Canterbury City Council,S East,175,18,18,0,N
+55,Carlisle City Council,N West,161,0,51,0,Y
+58,Castle Point Borough Council,East,82,1,48,0,Y
+59,Charnwood Borough Council,E Mids,210,12,44,0,Y
+60,Chelmsford City Council,East,167,0,54,0,Y
+61,Cheltenham Borough Council,S West,202,0,93,0,Y
+62,Cherwell District Council,S East,134,0,49,0,Y
+65,Chesterfield Borough Council,E Mids,197,1,52,0,Y
+67,Chichester District Council,S East,202,0,41,0,N
+68,Chiltern District Council,S East,112,54,2,0,N
+69,Chorley Council,N West,162,0,55,0,Y
+70,Christchurch Borough Council,S West,202,0,100,0,Y
+71,Colchester Borough Council,East,169,80,70,62,Y
+73,Copeland Borough Council,N West,87,1,41,0,Y
+74,Corby Borough Council,E Mids,179,3,37,0,Y
+76,City of London,London,166,0,69,0,Y
+77,Cotswold District Council,S West,150,0,38,0,Y
+78,Coventry City Council,W Mids,378,0,69,0,Y
+79,Craven District Council,York/Humb,297,0,30,0,N
+80,Crawley Borough Council,S East,285,8,2,0,N
+82,London Borough of Croydon,London,300,1,70,0,Y
+83,Cumbria County Council,N West,127,0,7,0,Y
+84,Dacorum Council,East,190,0,25,0,Y
+85,Darlington Borough Council,N East,192,0,70,0,N
+86,Dartford Borough Council,S East,76,0,31,0,N
+88,Daventry District Council,E Mids,97,0,36,0,Y
+89,Derby City Council,E Mids,267,0,19,0,Y
+90,Derbyshire County Council,E Mids,157,0,12,0,N
+91,Derbyshire Dales District Council,E Mids,208,0,33,0,N
+93,Devon County Council,S West,135,0,4,0,Y
+94,Doncaster Metropolitan Borough Council,York/Humb,165,0,75,0,Y
+95,Dorset County Council,S West,244,0,78,0,Y
+96,Dover District Council,S East,97,0,40,0,Y
+102,East Cambridgeshire District Council,East,127,0,46,0,Y
+103,East Devon District Council,S West,146,0,55,0,Y
+104,East Dorset District Council,S West,224,0,46,0,Y
+105,East Hampshire District Council,S East,82,0,51,0,Y
+106,East Hertfordshire District Council,East,85,1,21,0,Y
+107,East Lindsey District Council,E Mids,99,2,1,0,N
+108,East Northamptonshire Council,E Mids,92,0,40,0,Y
+109,East Riding of Yorkshire Council,York/Humb,215,0,89,0,Y
+110,East Staffordshire Borough Council,W Mids,135,1,49,0,Y
+111,East Sussex County Council,S East,114,0,21,0,Y
+112,Eastbourne Borough Council,S East,159,27,41,0,N
+113,Eastleigh Borough Council,S East,90,0,25,0,Y
+114,Eden District Council,N West,176,0,20,0,Y
+117,London Borough of Enfield,London,110,0,51,0,Y
+118,Epping Forest District Council,East,183,4,42,0,Y
+119,Epsom and Ewell Borough Council,S East,140,0,64,0,Y
+120,Erewash Borough Council,E Mids,70,0,53,0,Y
+121,Essex County Council,East,106,0,10,0,N
+122,Exeter City Council,S West,174,17,42,0,Y
+124,Fareham Borough Council,S East,186,0,55,0,Y
+125,Fenland District Council,East,52,5,14,2,N
+126,Forest Heath District Council,East,76,0,42,0,N
+127,Forest of Dean District Council,S West,249,0,40,0,Y
+128,Fylde Borough Council,N West,67,0,32,0,Y
+130,Gedling Borough Council,E Mids,196,3,50,0,Y
+131,Gloucester City Council,S West,85,0,47,0,Y
+132,Gloucestershire County Council,S West,121,0,30,0,N
+133,Gosport Borough Council,S East,122,0,59,0,Y
+134,Gravesham Borough Council,S East,170,0,23,0,N
+135,Great Yarmouth Borough Council,East,229,0,34,0,Y
+137,Royal Borough of Greenwich,London,307,4,21,0,N
+138,Guildford Borough Council,S East,64,0,3,0,N
+139,London Borough of Hackney,London,145,0,20,0,Y
+140,Halton Borough Council,N West,267,0,26,0,Y
+142,London Borough of Hammersmith & Fulham,London,197,18,68,0,Y
+143,Hampshire County Council,S East,198,0,41,0,Y
+144,Harborough District Council,E Mids,125,0,46,0,Y
+145,London Borough of Haringey,London,218,0,66,0,Y
+146,Harlow Council,East,54,0,81,0,Y
+147,Harrogate Borough Council,York/Humb,394,2,53,0,Y
+148,London Borough of Harrow,London,215,0,5,0,Y
+149,Hart District Council,S East,261,0,4,0,Y
+150,Hartlepool Borough Council,N East,243,0,64,0,Y
+151,Hastings Borough Council,S East,159,24,24,0,N
+152,Havant Borough Council,S East,127,39,47,6,Y
+153,London Borough of Havering,London,369,0,67,0,N
+154,Herefordshire Council,W Mids,217,0,48,0,N
+155,Hertfordshire County Council,East,118,0,18,0,Y
+156,Hertsmere Borough Council,East,118,0,34,0,Y
+157,High Peak Borough Council,E Mids,55,7,58,8,Y
+158,London Borough of Hillingdon,London,359,1,82,0,Y
+159,Hinckley and Bosworth Borough Council,E Mids,99,0,94,0,Y
+160,Horsham District Council,S East,157,9,149,0,Y
+161,London Borough of Hounslow,London,329,0,3,0,N
+162,Huntingdonshire District Council,East,51,0,5,0,Y
+163,Hyndburn Borough Council,N West,46,0,19,0,Y
+164,Ipswich Borough Council,East,109,0,47,0,N
+165,Isle of Wight Council,S East,155,11,102,0,Y
+166,Isles of Scilly,S West,150,0,3,0,Y
+167,London Borough of Islington,London,172,0,60,0,N
+169,Royal Borough of Kensington and Chelsea,London,225,0,68,0,N
+170,Kent County Council,S East,220,0,15,0,Y
+172,Kettering Borough Council,E Mids,208,2,22,0,Y
+173,King's Lynn and West Norfolk Borough Council,East,173,0,55,0,Y
+174,Kingston-upon-Hull City Council,York/Humb,300,300,30,30,Y
+176,Kirklees Council,York/Humb,180,0,17,0,N
+177,Knowsley Metropolitan Borough Council,N West,125,0,35,0,N
+179,London Borough of Lambeth,London,163,0,63,0,Y
+180,Lancashire County Council,N West,90,0,1,0,Y
+181,Lancaster City Council,N West,83,0,27,0,Y
+182,Leeds City Council,York/Humb,160,0,71,0,Y
+183,Leicester City Council,E Mids,196,10,61,2,Y
+184,Leicestershire County Council,E Mids,179,0,17,0,Y
+185,Lewes District Council,S East,139,0,26,0,Y
+186,London Borough of Lewisham,London,184,0,75,0,Y
+187,Lichfield District Council,W Mids,88,3,43,0,Y
+188,City of Lincoln Council,E Mids,195,0,51,0,Y
+189,Lincolnshire County Council,E Mids,164,0,29,0,Y
+190,Liverpool City Council,N West,239,0,126,0,Y
+192,Luton Borough Council,East,207,0,65,0,Y
+194,Maidstone Borough Council,S East,53,0,42,0,Y
+195,Maldon District Council,East,122,4,172,0,N
+196,Malvern Hills District Council,W Mids,144,0,23,0,Y
+197,Manchester City Council,N West,164,0,154,0,Y
+198,Mansfield District Council,E Mids,99,0,4,0,N
+199,Medway Council,S East,318,0,75,0,Y
+200,Melton Borough Council,E Mids,55,6,2,0,Y
+201,Mendip District Council,S West,88,0,34,0,N
+202,London Borough of Merton,London,205,0,70,0,Y
+204,Mid Devon District Council,S West,169,13,66,2,Y
+205,Mid Suffolk District Council,East,181,0,48,0,Y
+206,Mid Sussex District Council,S East,195,0,80,0,Y
+208,Milton Keynes,S East,150,0,2,0,Y
+209,Mole Valley District Council,S East,139,0,23,0,Y
+210,New Forest District Council,S East,196,0,60,0,N
+211,Newark and Sherwood District Council,E Mids,121,0,32,0,Y
+213,Newcastle-upon-Tyne City Council,N East,191,0,109,0,Y
+214,London Borough of Newham,London,130,0,18,0,Y
+215,Norfolk County Council,East,200,0,15,0,Y
+217,North Devon Council,S West,126,0,47,0,Y
+218,North Dorset District Council,S West,129,0,1,0,Y
+219,North East Derbyshire District Council,E Mids,119,0,47,0,Y
+220,North East Lincolnshire Council,York/Humb,197,0,87,0,Y
+221,North Hertfordshire District Council,East,153,0,43,0,Y
+222,North Kesteven District Council,E Mids,205,0,27,0,Y
+223,North Lincolnshire Council,York/Humb,327,0,77,0,Y
+224,North Norfolk District Council,East,59,3,39,0,Y
+226,North Somerset  Council,S West,138,0,28,0,Y
+227,North Tyneside Metropolitan Borough Council,N East,202,0,70,0,Y
+228,North Warwickshire Borough Council,W Mids,79,0,55,0,Y
+229,North West Leicestershire District Council,E Mids,153,3,22,0,Y
+231,North Yorkshire County Council,York/Humb,188,1,56,0,Y
+233,Northampton Borough Council,E Mids,69,0,41,0,Y
+234,Northamptonshire County Council,E Mids,113,0,6,0,Y
+237,Norwich City Council,East,193,0,44,0,Y
+238,Nottingham City Council,E Mids,196,0,38,0,Y
+239,Nottinghamshire County Council,E Mids,142,0,6,0,Y
+240,Nuneaton and Bedworth Borough Council,W Mids,70,0,26,0,Y
+241,Oadby and Wigston District Council,E Mids,102,6,107,0,N
+242,Oldham Metropolitan Borough Council,N West,181,1,118,0,Y
+244,Oxford City Council,S East,203,0,48,0,Y
+245,Oxfordshire County Council,S East,104,0,25,0,Y
+247,Pendle Borough Council,N West,112,3,48,0,Y
+249,Peterborough City Council,East,347,0,71,0,Y
+250,Plymouth City Council,S West,317,0,59,0,Y
+252,Portsmouth City Council,S East,173,0,78,0,Y
+253,Preston City Council,N West,90,0,47,0,Y
+254,Purbeck District Council,S West,202,0,46,0,Y
+255,Reading Borough Council,S East,281,0,57,0,N
+256,London Borough of Redbridge,London,248,0,36,0,Y
+257,Redcar and Cleveland Council,N East,246,5,38,0,Y
+258,Redditch Borough Council,W Mids,115,0,50,0,Y
+259,Reigate and Banstead Borough Council,S East,78,9,47,1,Y
+261,Ribble Valley Borough Council,N West,67,0,23,0,N
+262,London Borough of Richmond upon Thames,London,186,0,89,0,Y
+263,Richmondshire District Council,York/Humb,211,0,43,0,Y
+264,Rochdale Metropolitan Borough Council,N West,194,0,75,0,N
+265,Rochford District Council,East,62,0,43,0,Y
+266,Rossendale Borough Council,N West,177,0,60,0,Y
+267,Rother District Council,S East,66,0,40,0,N
+268,Rotherham Metropolitan Borough Council,York/Humb,221,0,33,0,Y
+269,Rugby Borough Council,W Mids,92,0,24,0,Y
+270,Runnymede Borough Council,S East,46,3,69,6,N
+271,Rushcliffe Borough Council,E Mids,101,8,48,4,Y
+272,Rushmoor Borough Council,S East,102,0,60,0,N
+273,Rutland County Council,E Mids,231,0,18,0,N
+274,Ryedale District Council,York/Humb,207,0,44,0,Y
+275,Salford City Council,N West,178,0,17,0,Y
+277,Sandwell Metropolitan Borough Council,W Mids,313,19,33,0,Y
+278,Scarborough Borough Council,York/Humb,298,7,30,8,Y
+280,Sedgemoor District Council,S West,156,0,64,0,Y
+281,Sefton Metropolitan Borough Council,N West,325,0,39,0,Y
+282,Selby District Council,York/Humb,223,23,52,8,Y
+283,Sevenoaks District Council,S East,134,11,45,0,Y
+284,Sheffield City Council,York/Humb,184,0,29,0,Y
+285,Shepway District Council,S East,193,159,63,63,N
+288,Slough Borough Council,S East,206,0,68,0,Y
+289,Solihull Metropolitan Borough Council,W Mids,274,0,28,0,N
+290,Somerset County Council,S West,125,0,17,0,N
+292,South Buckinghamshire District Council,S East,79,1,54,0,N
+293,South Cambridgeshire District Council,East,78,45,25,25,Y
+294,South Derbyshire District Council,E Mids,189,11,48,1,Y
+295,South Gloucestershire Council,S West,197,0,47,0,Y
+296,South Hams District Council,S West,63,0,26,0,N
+297,South Holland District Council,E Mids,110,0,48,0,Y
+298,South Kesteven District Council,E Mids,220,74,38,7,Y
+299,South Lakeland District Council,N West,95,0,3,0,Y
+300,South Norfolk District Council,East,140,0,1,0,Y
+301,South Northamptonshire Council,E Mids,94,0,43,0,Y
+302,South Oxfordshire District Council,S East,77,0,32,0,Y
+303,South Ribble Borough Council,N West,155,40,49,2,Y
+305,South Somerset District Council,S West,104,2,86,0,Y
+306,South Staffordshire Council,W Mids,151,0,52,0,Y
+307,South Tyneside Council,N East,153,3,39,0,N
+308,Southampton City Council,S East,321,0,80,0,Y
+309,Southend-on-Sea Borough Council,East,384,0,4,0,Y
+310,London Borough of Southwark,London,304,23,41,8,Y
+311,Spelthorne Borough Council,S East,96,0,25,0,N
+312,St Albans City and District Council,East,109,0,41,0,Y
+313,St Helens Metropolitan Borough Council,N West,188,0,87,0,Y
+315,Stafford Borough Council,W Mids,94,0,44,0,Y
+316,Staffordshire County Council,W Mids,157,0,20,0,Y
+317,Staffordshire Moorlands District Council,W Mids,172,0,27,0,Y
+318,Stevenage Borough Council,East,161,0,44,0,Y
+319,Stockport Metropolitan Borough Council,N West,263,0,137,0,N
+320,Stockton-on-Tees Borough Council,N East,302,0,67,0,Y
+321,Stoke-on-Trent City Council,W Mids,148,0,66,0,Y
+322,Stratford-on-Avon District Council,W Mids,87,0,54,0,Y
+323,Stroud District Council,S West,167,0,90,0,Y
+324,Suffolk County Council,East,114,0,42,0,Y
+325,Suffolk Coastal District Council,East,120,0,36,0,Y
+326,Sunderland City Council,N East,158,0,67,0,Y
+327,Surrey County Council,S East,203,0,24,0,Y
+328,Surrey Heath Borough Council,S East,138,0,27,0,Y
+329,London Borough of Sutton,London,253,188,53,29,Y
+330,Swale Borough Council,S East,198,11,19,1,Y
+331,Swindon Borough Council,S West,174,0,110,0,Y
+332,Tameside Metropolitan Borough Council,N West,171,0,111,0,Y
+333,Tamworth Borough Council,W Mids,114,0,7,0,Y
+334,Tandridge District Council,S East,87,0,48,0,Y
+335,Taunton Deane Borough Council,S West,185,0,44,0,Y
+337,Teignbridge District Council,S West,124,1,46,0,N
+338,Telford & Wrekin Council,W Mids,322,0,22,0,Y
+339,Tendring District Council,East,143,0,44,0,Y
+340,Test Valley Borough Council,S East,142,1,36,0,N
+341,Tewkesbury Borough Council,S West,249,173,42,40,Y
+342,Thanet District Council,S East,78,0,21,0,Y
+344,Three Rivers District Council,East,204,32,27,7,Y
+345,Thurrock Council,East,216,0,68,0,Y
+346,Tonbridge and Malling Borough Council,S East,157,31,86,77,Y
+347,Torbay Council,S West,175,0,59,0,Y
+348,Torridge District Council,S West,191,180,1,1,N
+349,London Borough of Tower Hamlets,London,265,0,36,0,Y
+350,Trafford Metropolitan Borough Council,N West,189,0,56,0,N
+352,Tunbridge Wells Borough Council,S East,107,0,132,0,Y
+354,Uttlesford District Council,East,136,0,64,0,N
+355,Vale of White Horse District Council,S East,85,0,28,0,Y
+357,Wakefield Metropolitan District Council,York/Humb,185,0,50,0,Y
+358,Walsall Metropolitan Borough Council,W Mids,287,2,18,0,N
+359,London Borough of Waltham Forest,London,163,0,14,0,N
+360,London Borough of Wandsworth,London,222,0,76,0,Y
+362,Warrington Borough Council,N West,175,4,81,0,Y
+363,Warwick District Council,W Mids,107,0,47,0,Y
+364,Warwickshire County Council,W Mids,110,0,31,0,Y
+365,Watford Borough Council,East,76,4,56,7,Y
+366,Waveney District Council,East,166,0,39,0,Y
+367,Waverley Borough Council,S East,197,0,39,0,Y
+368,Wealden District Council,S East,192,0,41,0,Y
+370,Wellingborough Borough Council,E Mids,104,0,40,0,Y
+371,Welwyn Hatfield Council,East,137,0,26,0,N
+372,West Berkshire Council,S East,266,0,4,0,N
+373,West Devon Borough Council,S West,117,0,19,0,N
+374,West Dorset District Council,S West,197,0,45,0,Y
+375,West Lancashire Borough Council,N West,167,0,52,0,Y
+376,West Lindsey District Council,E Mids,96,0,46,0,Y
+377,West Oxfordshire District Council,S East,98,0,81,0,Y
+378,West Somerset District Council,S West,184,0,28,0,Y
+379,West Sussex County Council,S East,114,0,4,0,Y
+381,City of Westminster,London,159,10,52,2,Y
+382,Weymouth and Portland Borough Council,S West,157,0,56,0,Y
+383,Wigan Metropolitan Borough Council,N West,268,38,59,25,Y
+385,Winchester City Council,S East,198,3,37,0,Y
+386,Royal Borough of Windsor and Maidenhead,S East,286,15,39,3,Y
+387,Wirral Council,N West,330,101,30,2,Y
+388,Woking Borough Council,S East,70,3,29,0,Y
+389,Wokingham Borough Council,S East,216,0,61,0,Y
+390,Wolverhampton City Council,W Mids,246,3,85,1,N
+391,Worcester City Council,W Mids,73,0,44,0,Y
+392,Worcestershire County Council,W Mids,181,13,16,4,Y
+393,Worthing Borough Council,S East,192,8,53,4,Y
+394,Wychavon District Council,W Mids,161,0,24,0,Y
+395,Wycombe District Council,S East,113,0,45,0,Y
+396,Wyre Council,N West,153,0,33,0,Y
+397,Wyre Forest District Council,W Mids,131,0,22,0,Y
+398,City of York Council,York/Humb,201,0,4,0,Y
+408,Aberdeenshire Council,Scotland,4,0,44,0,Y
+409,Aberdeen City Council,Scotland,5,1,36,18,Y
+410,Isle of Anglesey County Council,Wales,103,22,54,3,Y
+411,Angus Council,Scotland,7,4,76,71,Y
+412,Antrim Borough Council,N.Ireland,0,0,13,8,Y
+413,Ards Borough Council,N.Ireland,1,1,13,1,Y
+414,Armagh City and District Council,N.Ireland,1,1,25,12,Y
+415,Argyll and Bute Council,Scotland,25,0,81,0,Y
+416,Ballymena Borough Council,N.Ireland,0,0,13,13,Y
+417,Ballymoney Borough Council,N.Ireland,0,0,7,0,Y
+418,Banbridge District Council,N.Ireland,1,1,12,12,Y
+419,Barrow-in-Furness Borough Council,N West,214,114,54,52,Y
+420,Belfast City Council,N.Ireland,1,1,48,35,Y
+421,Bridgend County Borough Council,Wales,170,8,38,1,Y
+422,Bury Metropolitan Borough Council,N West,198,26,2,0,N
+423,Caerphilly County Borough Council,Wales,193,0,40,0,N
+424,Carrickfergus Borough Council,N.Ireland,1,0,13,0,Y
+425,Cardiff Council,Wales,112,0,5,0,Y
+426,Carmarthenshire County Council,Wales,118,75,1,1,Y
+427,Castlereagh Borough Council,N.Ireland,1,1,34,34,Y
+428,Ceredigion County Council,Wales,87,24,4,0,Y
+430,Clackmannanshire Council,Scotland,4,0,69,0,Y
+432,Coleraine Borough Council,N.Ireland,1,0,16,0,Y
+433,Conwy County Borough Council,Wales,161,0,11,0,Y
+434,Cookstown District Council,N.Ireland,0,0,49,49,Y
+435,Craigavon Borough Council,N.Ireland,1,0,31,0,Y
+436,Denbighshire County Council,Wales,163,2,9,0,N
+437,Derry City Council,N.Ireland,1,0,40,0,Y
+438,Down District Council,N.Ireland,1,0,72,0,Y
+439,Dudley Metropolitan Borough Council,W Mids,212,0,129,0,Y
+440,Dumfries and Galloway Council,Scotland,6,2,0,0,N
+441,Dundee City Council,Scotland,4,2,52,33,Y
+442,Dungannon and South Tyrone Borough Council,N.Ireland,1,1,34,19,Y
+444,London Borough of Ealing,London,195,10,77,0,Y
+445,East Ayrshire Council,Scotland,4,1,73,17,Y
+446,East Dunbartonshire Council,Scotland,8,0,84,0,Y
+448,East Lothian Council,Scotland,3,0,0,0,Y
+449,East Renfrewshire Council,Scotland,4,2,71,17,N
+450,Edinburgh City Council,Scotland,165,71,41,12,Y
+451,Elmbridge Borough Council,S East,209,0,82,0,Y
+452,Falkirk Council,Scotland,8,0,72,32,Y
+454,Fermanagh District Council,N.Ireland,0,0,15,0,Y
+455,Fife Council,Scotland,7,0,143,0,N
+456,Flintshire County Council,Wales,184,1,58,0,Y
+457,Gateshead Metropolitan Borough Council,N East,374,4,43,0,Y
+458,Glasgow City Council,Scotland,7,0,70,0,N
+461,Gwynedd County Council,Wales,171,3,40,0,Y
+462,Hambleton District Council,York/Humb,216,25,44,3,Y
+463,The Highland Council,Scotland,1,0,0,0,Y
+465,Inverclyde Council,Scotland,3,0,60,0,Y
+468,Larne Borough Council,N.Ireland,1,1,13,13,Y
+469,Limavady Borough Council,N.Ireland,1,0,13,0,Y
+471,Lisburn City Council,N.Ireland,0,0,49,4,Y
+472,Magherafelt District Council,N.Ireland,1,1,28,28,Y
+474,Merthyr Tydfil County Borough Council,Wales,203,1,4,0,Y
+475,Midlothian Council,Scotland,8,0,83,0,Y
+476,Middlesbrough Borough Council,N East,233,44,67,5,N
+477,Monmouthshire County Council,Wales,139,2,66,0,Y
+478,Moray Council,Scotland,4,0,34,0,Y
+479,Moyle District Council,N.Ireland,1,0,19,0,N
+480,Neath Port Talbot County Borough Council,Wales,148,0,68,0,Y
+481,Newport City Council,Wales,127,0,4,0,N
+482,North Ayrshire Council,Scotland,4,0,0,0,Y
+483,North Down Borough Council,N.Ireland,0,0,29,6,Y
+485,Omagh District Council,N.Ireland,1,0,31,0,Y
+486,Orkney Islands Council,Scotland,3,0,33,0,Y
+487,Pembrokeshire County Council,Wales,146,0,15,0,N
+488,Perth and Kinross Council,Scotland,9,0,18,0,N
+490,Powys County Council,Wales,177,0,62,0,Y
+491,Renfrewshire Council,Scotland,4,3,53,53,Y
+492,Rhondda Cynon Taf County Borough Council,Wales,136,0,22,0,Y
+493,Shetland Islands Council,Scotland,4,0,33,4,Y
+494,South Ayrshire Council,Scotland,4,0,57,0,Y
+495,South Lanarkshire Council,Scotland,8,2,31,29,Y
+496,St Edmundsbury Borough Council,East,233,0,26,0,N
+497,Stirling Council,Scotland,2,0,0,0,Y
+498,Strabane District Council,N.Ireland,0,0,7,0,N
+500,Torfaen County Borough Council,Wales,166,0,70,0,Y
+502,Vale of Glamorgan Council,Wales,198,0,39,0,N
+503,Western Isles Council,Scotland,1,0,0,0,Y
+504,West Dunbartonshire Council,Scotland,10,0,44,0,Y
+505,West Lothian Council,Scotland,10,0,65,0,N
+508,Wrexham County Borough Council,Wales,163,11,32,1,Y
+517,North Lanarkshire Council,Scotland,2,0,74,0,N
+518,Scottish Borders Council,Scotland,8,0,0,0,Y
+519,Blaenau Gwent County Borough Council,Wales,185,0,47,0,Y
+558,Bristol City Council,S West,338,0,38,0,Y
+562,Royal Borough of Kingston upon Thames,London,316,0,51,0,Y
+563,Newcastle-Under-Lyme District Council,W Mids,67,0,51,0,N
+565,Borough of Poole,S West,214,9,30,0,Y
+567,The City and County of Swansea Council,Wales,133,0,104,0,Y
+797,Newtownabbey Borough Council,N.Ireland,0,0,20,0,N
+798,Newry and Mourne District Council,N.Ireland,0,0,0,0,Y
+869,Cornwall Council (Unitary),S West,215,0,33,0,Y
+870,Durham County Council,N East,304,0,82,0,Y
+871,Northumberland Council &#40 Unitary&#41,N East,114,0,34,0,N
+872,Shropshire Council - Unitary,W Mids,312,0,48,0,Y
+873,Wiltshire Council (Unitary),S West,272,0,67,0,Y
+874,Cheshire East Council (Unitary),N West,140,0,54,0,N
+875,Cheshire West and Chester Council,N West,188,0,27,0,Y
+876,Bedford Council (Unitary),East,136,0,74,0,N
+877,Central Bedfordshire Council,East,371,8,83,0,Y
