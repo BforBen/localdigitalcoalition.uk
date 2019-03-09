@@ -68,7 +68,7 @@
 
 <div id="main">
 	<div class="container">
-					<div class="row-fluid breadcrumbs" aria-hidden="true" xmlsn:v="http://rdf.data-vocabulary.org/#">
+					<div class="row-fluid breadcrumbs" aria-hidden="true">
 			<div class="span12">
 					<div class='breadcrumb'>
 						<!-- Breadcrumb NavXT 6.2.1 -->
@@ -117,13 +117,13 @@
 <li><b>Proposing something that all these organisations are actually willing and able to adopt</b><span style="font-weight: 400;">.</span></li>
 <li><b>Testing the new model that I’m proposing</b><span style="font-weight: 400;">: Documentation and test systems to interact with are useful but can take longer to obtain due to the nature of the services and relationships with their customers (sometimes via a waste collection company). Their existing models give useful insights towards a common model but choices must be made. For example, should a resident’s property be called a Place, Premises, Site, Property and so on. We’re lucky to have increasing access to test data from a number of suppliers now, so will be working on these details over the next month.</span></li>
 </ol>
-<p><span style="font-weight: 400;">So, while our standard data model has already taken form, as you can see </span><a href="http://communitiesuk.github.io/waste-service-standards/"><span style="font-weight: 400;">on the github page</span></a><span style="font-weight: 400;">, we’ll still be tweaking it over the coming weeks to ensure that the version that’s implemented by a number of organisations as part of this Beta phase of work is the beginning of a sustainable standard.</span></p>
+<p><span style="font-weight: 400;">So, while our standard data model has already taken form, as you can see </span><a href="https://communitiesuk.github.io/waste-service-standards/"><span style="font-weight: 400;">on the github page</span></a><span style="font-weight: 400;">, we’ll still be tweaking it over the coming weeks to ensure that the version that’s implemented by a number of organisations as part of this Beta phase of work is the beginning of a sustainable standard.</span></p>
 <h3>Taking the best of other standards and protocols</h3>
 <p><span style="font-weight: 400;">There are 3 main national and international data standards frameworks that I’ve used as a template for the Waste Management Data Model and API.</span></p>
 <ol>
 <li style="list-style-type: none">
 <ol>
-<li style="font-weight: 400;"><a href="http://schema.org/"><span style="font-weight: 400;">Schema.org</span></a><span style="font-weight: 400;"> is a leading international repository of data model definitions for everyday things. As a rich source of general data models used for website metadata, </span><a href="http://schema.org/"><span style="font-weight: 400;">schema.org</span></a><span style="font-weight: 400;"> is a good starting point. Imagining how the waste models could fit into the schema.org type hierarchy can help to link with existing concepts. Its properties can also be applied to new properties where applicable.</span></li>
+<li style="font-weight: 400;"><a href="https://schema.org/"><span style="font-weight: 400;">Schema.org</span></a><span style="font-weight: 400;"> is a leading international repository of data model definitions for everyday things. As a rich source of general data models used for website metadata, </span><a href="https://schema.org/"><span style="font-weight: 400;">schema.org</span></a><span style="font-weight: 400;"> is a good starting point. Imagining how the waste models could fit into the schema.org type hierarchy can help to link with existing concepts. Its properties can also be applied to new properties where applicable.</span></li>
 </ol>
 </li>
 </ol>
@@ -135,7 +135,7 @@
 </li>
 </ol>
 <ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">The </span><a href="http://www.bsigroup.com/en-GB/smart-cities/Smart-Cities-Standards-and-Publication/PAS-182-smart-cities-data-concept-model/"><span style="font-weight: 400;">Smart Cities Data Concept Model</span></a><span style="font-weight: 400;"> developed by <a href="https://istanduk.org/">iStandUK</a></span><span style="font-weight: 400;"> and the </span><a href="http://www.bsigroup.com/en-GB/standards/"><span style="font-weight: 400;">British Standards Institute</span></a><span style="font-weight: 400;"> is another framework that focuses</span><span style="font-weight: 400;"> on the UK. It was developed in partnership with a number of cities to map out how all kinds of city data might interrelate. So, we&#8217;re doing our best to abide by this standard, and are informing its detail as we go in partnership with iStandUK&#8217;s standards lead, Paul Davidson.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The </span><a href="https://www.bsigroup.com/en-GB/smart-cities/Smart-Cities-Standards-and-Publication/PAS-182-smart-cities-data-concept-model/"><span style="font-weight: 400;">Smart Cities Data Concept Model</span></a><span style="font-weight: 400;"> developed by <a href="https://istanduk.org/">iStandUK</a></span><span style="font-weight: 400;"> and the </span><a href="https://www.bsigroup.com/en-GB/standards/"><span style="font-weight: 400;">British Standards Institute</span></a><span style="font-weight: 400;"> is another framework that focuses</span><span style="font-weight: 400;"> on the UK. It was developed in partnership with a number of cities to map out how all kinds of city data might interrelate. So, we&#8217;re doing our best to abide by this standard, and are informing its detail as we go in partnership with iStandUK&#8217;s standards lead, Paul Davidson.</span></li>
 </ol>
 <h3>Government as a Platform (GaaP)… because we have to mention it</h3>
 <p><span style="font-weight: 400;">This year’s local government trending topic is Government as a Platform and how to think of a council’s digital systems as a set of reusable capabilities rather than siloed systems. Thus it is quite important to model stuff in as decoupled a way as possible. In the case of our waste management data model, the most obvious example of including reusable capabilities is defining a common ‘Places API’ for postcode lookup that is separate from the Waste API, which is specific to waste services. Likewise, when the API is expanded to include paid for services, the ‘payments in’ function would be separate to better connect with other services that the council charges for, like parking permits and council tax.  </span></p>
